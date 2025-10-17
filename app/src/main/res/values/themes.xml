@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Light Theme -->
+    <style name="Theme.TipCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#BBDEFB</item>
+        <item name="colorOnPrimaryContainer">#0D47A1</item>
+        
+        <!-- Secondary Colors -->
+        <item name="colorSecondary">#4CAF50</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorSecondaryContainer">#C8E6C9</item>
+        <item name="colorOnSecondaryContainer">#1B5E20</item>
+        
+        <!-- Surface Colors -->
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#212121</item>
+        <item name="colorSurfaceVariant">#F5F5F5</item>
+        <item name="colorOnSurfaceVariant">#757575</item>
+        
+        <!-- Background Colors -->
+        <item name="android:colorBackground">#FAFAFA</item>
+        <item name="colorOnBackground">#212121</item>
+        
+        <!-- Error Colors -->
+        <item name="colorError">#F44336</item>
+        <item name="colorOnError">#FFFFFF</item>
+        <item name="colorErrorContainer">#FFCDD2</item>
+        <item name="colorOnErrorContainer">#B71C1C</item>
+        
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">#1565C0</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+    
+</resources>

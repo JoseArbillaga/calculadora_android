@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Calculadora de Propinas</string>
+    
+    <!-- Common Actions -->
+    <string name="next">Siguiente</string>
+    <string name="back">Atrás</string>
+    <string name="calculate">Calcular</string>
+    <string name="new_calculation">Nuevo Cálculo</string>
+    
+    <!-- Step Indicators -->
+    <string name="step_1_of_6">Paso 1 de 6</string>
+    <string name="step_2_of_6">Paso 2 de 6</string>
+    <string name="step_3_of_6">Paso 3 de 6</string>
+    <string name="step_4_of_6">Paso 4 de 6</string>
+    <string name="step_5_of_6">Paso 5 de 6</string>
+    <string name="step_6_of_6">Paso 6 de 6 - ¡Completado!</string>
+    
+    <!-- Activity Titles -->
+    <string name="employee_names_title">Nombres de Empleados</string>
+    <string name="employee_days_title">Días Trabajados</string>
+    <string name="week_total_title">Total de la Semana</string>
+    <string name="daily_amounts_title">Montos Diarios</string>
+    <string name="results_title">Resultados del Cálculo</string>
+    
+    <!-- Input Labels -->
+    <string name="num_employees_label">Número de empleados</string>
+    <string name="employee_name_label">Empleado %1$d</string>
+    <string name="days_worked_label">Días trabajados - %1$s</string>
+    <string name="week_total_label">Total de días de la semana</string>
+    <string name="daily_tip_label">Propinas del %1$s</string>
+    
+    <!-- Instructions -->
+    <string name="enter_num_employees">Ingrese el número total de empleados:</string>
+    <string name="enter_employee_names">Ingrese los nombres de los empleados:</string>
+    <string name="enter_days_worked">Ingrese los días trabajados por cada empleado:</string>
+    <string name="enter_week_total">¿Cuántos días tuvo la semana laboral?</string>
+    <string name="enter_daily_amounts">Ingrese el monto de propinas por cada día:</string>
+    <string name="week_example">Ejemplo: Si la semana laboral fue de lunes a viernes, ingrese 5</string>
+    
+    <!-- Results -->
+    <string name="summary">Resumen</string>
+    <string name="employee_distribution">Distribución por Empleado</string>
+    <string name="total_tips">Total de propinas: $%1$s</string>
+    <string name="daily_average">Promedio diario: $%1$s</string>
+    <string name="remainder_distributed">Sobrante distribuido: $%1$s</string>
+    <string name="days_worked_format">Días trabajados: %1$d/%2$d</string>
+    <string name="tip_amount">Propina: $%1$s</string>
+    <string name="full_week_bonus">+ Bono semana completa: $%1$s</string>
+</resources>
