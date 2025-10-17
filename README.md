@@ -92,8 +92,8 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ## 📞 Contacto
 
-**Autor**: [Tu nombre]
-**Email**: [tu-email@ejemplo.com]
+**Autor**: JoseArbillaga
+**Email**: josearbillaga@gmail.com
 **Proyecto**: [https://github.com/tuusuario/calculadora-propinas](https://github.com/tuusuario/calculadora-propinas)
 
 ---
