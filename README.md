@@ -94,7 +94,7 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 **Autor**: JoseArbillaga
 **Email**: josearbillaga@gmail.com
-**Proyecto**: [https://github.com/tuusuario/calculadora-propinas](https://github.com/tuusuario/calculadora-propinas)
+**Proyecto**: [[https://github.com/tuusuario/calculadora-propinas](https://github.com/tuusuario/calculadora-propinas)](https://github.com/JoseArbillaga/calculadora_android)
 
 ---
 ⭐ Si este proyecto te ayudó, ¡dale una estrella en GitHub!
